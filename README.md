@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @comth
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning Asp.Net Core
+- 🌱 I’m currently working with Asp.Net
 - 📫 How to reach me: https://www.linkedin.com/in/thalita-carvalho-956337193/
